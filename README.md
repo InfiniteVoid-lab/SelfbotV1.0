@@ -44,7 +44,7 @@ Para el tema del rich presence sacare otro documento aparte para que este no sea
 3. ChatGPT
 4. GUI
 
-##Autores
-· Creador @InfiniteVoid-lab
-· @gv3.sys secretario sexy (colaborador)
+## Autores
 
+- Creador: [@InfiniteVoid-lab](https://github.com/InfiniteVoid-lab)
+- Colaborador: [@gv3sys](https://github.com/gv3sys) - Secretario sexy
