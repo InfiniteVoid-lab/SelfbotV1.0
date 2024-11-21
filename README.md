@@ -28,9 +28,23 @@ https://onthedock.github.io/post/190428-como-instalar-pip/
 
 ```bash
 python -m pip install -r requirements.txt
-
 ```
+## Uso del Selfbot
 
+Con el comando **!help** te dara todos los comandos disponibles y una breve descripcion de como usarlos.
 
+No me hago responsable si alguien hace mal uso del bot (Revisar la Licencia para ver que es lo que podeis hacer con el bot)
 
+Para el tema del rich presence sacare otro documento aparte para que este no sea tan largo. En dicho Documento explicare como hacer uso o como personalizar cada aspecto del mismo.
+
+## Proyetos Futuros
+
+1. setup.exe para que sea mas facil de usar
+2. Pagina web
+3. ChatGPT
+4. GUI
+
+##Autores
+· Creador @InfiniteVoid-lab
+· @gv3.sys secretario sexy (colaborador)
 
