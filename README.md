@@ -29,6 +29,8 @@ https://onthedock.github.io/post/190428-como-instalar-pip/
 ```bash
 python -m pip install -r requirements.txt
 ```
+![image](https://github.com/user-attachments/assets/fed8c459-e950-4157-9447-690513b66d96)
+
 ## Uso del Selfbot
 
 Con el comando **!help** te dara todos los comandos disponibles y una breve descripcion de como usarlos.
