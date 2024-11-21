@@ -19,7 +19,7 @@ Como se puede ver despues de instalar Python y los archivos del Selfbot no puedo
 Para instalar las dependencias del proyecto tendreís que seguir estos pasos:
 
 1. Instalar pip :
-Aqui tendreis una pagina web en la cual podreis instalar pip:
+Aqui tendreis una pagina web donde podeis informaros y instalar pip:
 
 ```bash
 https://onthedock.github.io/post/190428-como-instalar-pip/
