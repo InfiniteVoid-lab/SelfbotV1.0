@@ -1,4 +1,4 @@
-# Selfbot V1.0
+![image](https://github.com/user-attachments/assets/25a740a7-f189-4f7c-a42b-8eaa0107e194)# Selfbot V1.0
 
 Este Selfbot es un proyecto que comencé hace un año. A pesar de los estudios y el trabajo, ¡finalmente lo he completado! El Selfbot está diseñado para funcionar sobre **Discord 1.7.3** y utiliza **Python 3.7.0**. Asegúrate de tener instalada esta versión de Python, ya que es la requerida para la correcta ejecución del proyecto. La versión específica de Discord que necesitas se encuentra en el archivo `requirements.txt`.
 
@@ -8,14 +8,30 @@ Para poder descargar los archivos tendres que ir a la seccion **CODE**, allí en
 
 ![image](https://github.com/user-attachments/assets/84e6179b-f447-4dac-bac4-f1b34e05673d)
 
-## Puesta a puntow
+## Instalación
 
+Después de descargar los archivos lo que haremos sera instalar las dependencias:
 
+Como se puede ver despues de instalar Python y los archivos del Selfbot no puedo ejecutarlo ya que le faltan unas dependencias:
 
-## Instalación de dependencias
+![image](https://github.com/user-attachments/assets/f5005df2-6ff5-480b-9e1a-8e0b75b12312)
 
-Para instalar las dependencias del proyecto, ejecuta el siguiente comando:
+Para instalar las dependencias del proyecto tendreís que seguir estos pasos:
+
+1. Instalar pip :
+Entramos a Python 3.7 como administrador y escribimos los siguientes comandos
+
+Aqui tendreis una pagina web en la cual podreis instalar pip:
+```bash
+https://onthedock.github.io/post/190428-como-instalar-pip/
+```
+2. Instalar las dependencias :
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+
 ```
+
+
+
+
