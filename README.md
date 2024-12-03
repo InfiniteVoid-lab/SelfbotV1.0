@@ -35,9 +35,24 @@ python -m pip install -r requirements.txt
 
 Con el comando **!help** te dara todos los comandos disponibles y una breve descripcion de como usarlos.
 
-No me hago responsable si alguien hace mal uso del bot (Revisar la Licencia para ver que es lo que podeis hacer con el bot)
+Igualmente si revisais las lineas del codigo encontrareis comentarios que hos pueden ayudar a entender que es lo que hace dicha parte.
 
-Para el tema del rich presence sacare otro documento aparte para que este no sea tan largo. En dicho Documento explicare como hacer uso o como personalizar cada aspecto del mismo.
+## Rich Presence
+Aqui hos explicare como funcionan los diferentes tipos de presencia que hay y como personalizarlas al gusto.
+
+Hay 4 tipos de presencia acutalmente los cuales son:
+1. Twitch
+2. Youtube
+3. Juegos
+4. Spotify
+
+## 1. Twitch
+
+## 2. Youtube
+
+## 3. Juegos
+
+## 4. Spotify
 
 ## Proyetos Futuros
 
