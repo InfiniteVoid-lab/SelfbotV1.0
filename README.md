@@ -54,7 +54,7 @@ Hay 4 tipos de presencia acutalmente los cuales son:
 
 ## 4. Spotify
 
-## Proyetos Futuros
+## Proyectos Futuros
 
 1. setup.exe para que sea mas facil de usar
 2. Pagina web
